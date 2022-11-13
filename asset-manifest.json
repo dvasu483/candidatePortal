@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/candidatePortal/static/css/main.e9c46787.css",
-    "main.js": "/candidatePortal/static/js/main.b67b9b87.js",
+    "main.css": "/candidatePortal/static/css/main.88fdaf9c.css",
+    "main.js": "/candidatePortal/static/js/main.0316d340.js",
     "static/js/787.f8743582.chunk.js": "/candidatePortal/static/js/787.f8743582.chunk.js",
     "index.html": "/candidatePortal/index.html",
-    "main.e9c46787.css.map": "/candidatePortal/static/css/main.e9c46787.css.map",
-    "main.b67b9b87.js.map": "/candidatePortal/static/js/main.b67b9b87.js.map",
+    "main.88fdaf9c.css.map": "/candidatePortal/static/css/main.88fdaf9c.css.map",
+    "main.0316d340.js.map": "/candidatePortal/static/js/main.0316d340.js.map",
     "787.f8743582.chunk.js.map": "/candidatePortal/static/js/787.f8743582.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9c46787.css",
-    "static/js/main.b67b9b87.js"
+    "static/css/main.88fdaf9c.css",
+    "static/js/main.0316d340.js"
   ]
 }
